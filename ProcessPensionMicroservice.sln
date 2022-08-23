@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessPensionMicroservice", "ProcessPensionMicroservice\ProcessPensionMicroservice.csproj", "{D23220BF-F4FD-4EE3-8912-84CF6C8EE389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23220BF-F4FD-4EE3-8912-84CF6C8EE389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23220BF-F4FD-4EE3-8912-84CF6C8EE389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23220BF-F4FD-4EE3-8912-84CF6C8EE389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23220BF-F4FD-4EE3-8912-84CF6C8EE389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909C2850-9989-4E8D-BF61-DDD415D265DA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+2022-08-23 13:24:35,508 INFO  ProcessPensionMicroservice.Controllers.ProcessPensionController.MoveNext [41] - MESSAGE:  Http Post Request From PensionDetail method of: ProcessPensionController
+2022-08-23 13:24:40,322 INFO  ProcessPensionMicroservice.Repository.ProcessPensionRepository.MoveNext [43] - MESSAGE: Get request send to Prnsioner Detail microservice from GetPensionerDetailAsync method of: ProcessPensionRepository
+2022-08-23 13:24:40,572 INFO  ProcessPensionMicroservice.Repository.ProcessPensionRepository.MoveNext [58] - MESSAGE: Prnsioner Details returned from GetPensionerDetailAsync method of: ProcessPensionRepository
+2022-08-23 13:24:40,573 INFO  ProcessPensionMicroservice.Controllers.ProcessPensionController.MoveNext [45] - MESSAGE: Pensioner details fetched from PensionerDetails microservice in PensionDetail method of: ProcessPensionController
+2022-08-23 13:24:45,959 INFO  ProcessPensionMicroservice.Repository.ProcessPensionRepository.MoveNext [91] - MESSAGE: data saved in database from SaveDataAsync method of: ProcessPensionRepository
+2022-08-23 13:24:46,783 INFO  ProcessPensionMicroservice.Repository.ProcessPensionRepository.MoveNext [110] - MESSAGE: data updated in database from Upade method of: ProcessPensionRepository
+2022-08-23 13:24:47,123 INFO  ProcessPensionMicroservice.Controllers.ProcessPensionController.MoveNext [57] - MESSAGE: Pensioner details returned From PensionDetail method of: ProcessPensionController

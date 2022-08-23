@@ -1,0 +1,6 @@
+2022-08-22 19:33:45,343 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-08-22 19:33:45,586 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-08-22 19:33:45,593 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-08-22 19:33:45,594 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-08-22 19:33:45,599 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\912682\FSE0\Backend\ProcessPensionMicroservice\ProcessPensionMicroservice
+2022-08-22 19:33:45,600 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\912682\FSE0\Backend\ProcessPensionMicroservice\ProcessPensionMicroservice
