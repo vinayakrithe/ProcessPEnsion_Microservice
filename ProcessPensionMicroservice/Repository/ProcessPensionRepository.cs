@@ -34,7 +34,7 @@ namespace ProcessPensionMicroservice.Repository
             PensionerDetail pensionerDetail = new PensionerDetail();
             using (var httpClient = new HttpClient())
             {
-                using (var requestMessage = new HttpRequestMessage(HttpMethod.Get, "https://localhost:44356/api/PensionerDetails/GetPensionerDetail/" + aadharNumber))
+                using (var requestMessage = new HttpRequestMessage(HttpMethod.Get, "http://20.219.227.104/api/PensionerDetails/GetPensionerDetail/" + aadharNumber))
                 {
                     requestMessage.Headers.Authorization =
                     new AuthenticationHeaderValue("Bearer", token);
@@ -64,7 +64,7 @@ namespace ProcessPensionMicroservice.Repository
             List<PensionerDetail> pensionerDetails = new List<PensionerDetail>();
             using (var httpClient = new HttpClient())
             {
-                using (var requestMessage = new HttpRequestMessage(HttpMethod.Get, "https://localhost:44356/api/PensionerDetails/GetDetails"))
+                using (var requestMessage = new HttpRequestMessage(HttpMethod.Get, "http://20.219.227.104/api/PensionerDetails/GetDetails"))
                 {
                     requestMessage.Headers.Authorization =
                     new AuthenticationHeaderValue("Bearer", token);
